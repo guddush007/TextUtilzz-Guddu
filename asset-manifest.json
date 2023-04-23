@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TextUtilzz-Guddu/static/css/main.abd64e84.css",
+    "main.js": "/TextUtilzz-Guddu/static/js/main.348a36d5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextUtilzz-Guddu/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/TextUtilzz-Guddu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TextUtilzz-Guddu/index.html",
+    "main.abd64e84.css.map": "/TextUtilzz-Guddu/static/css/main.abd64e84.css.map",
+    "main.348a36d5.js.map": "/TextUtilzz-Guddu/static/js/main.348a36d5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextUtilzz-Guddu/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.348a36d5.js"
+  ]
+}
